@@ -7,6 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Categories
 * [Git](#Git)
 * [Product](#Product)
+*[Rust](#Rust)
 
 ---
 
@@ -17,6 +18,12 @@ A collection of concise write-ups on small things I learn day to day across a va
 Relearning Git with [Learn Git the Hard Way](https://github.com/georgeowen1993/learn-git-the-hard-way/blob/master/learngitthehardway.pdf)
 
 ---
+
+## Rust
+
+## [Rust basics](https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html#testing-the-first-part) 2025-03-01
+
+Chapters 1 and 2 functions, features of cargo and library crates. First io app. 
 
 ## Product
 
