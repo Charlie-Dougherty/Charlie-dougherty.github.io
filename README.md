@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Categories
 * [Git](#Git)
 * [Product](#Product)
-*[Rust](#Rust)
+* [Rust](#Rust)
 
 ---
 
