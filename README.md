@@ -13,9 +13,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
-### [Git from First Principles]- 2025-02-28
+### [Git from First Principles](https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/1-directory-content-tracking.html)- 2025-02-28
 
-Relearning Git with [Learn Git the Hard Way](https://github.com/georgeowen1993/learn-git-the-hard-way/blob/master/learngitthehardway.pdf)
+Relearning Git with [Learn Git the Hard Way](https://github.com/georgeowen1993/learn-git-the-hard-way/blob/master/learngitthehardway.pdf) and [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/1-directory-content-tracking.html)
 
 ---
 
